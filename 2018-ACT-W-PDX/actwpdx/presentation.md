@@ -1,32 +1,9 @@
 <!-- .slide: class="title" -->
 
-## GeoDev Hackerlab - PDX
-Mara Stoica & René Rubalcava
+## Building a Mapping Application with Little to No Programming
+Mara Stoica & Allison Davis
 
----
-
-<!-- .slide: class="agenda" -->
-
-## What is a GeoDev hackerlab?
-
-Build geo aps with ArcGIS
-
----
-
-<!-- .slide: class="agenda" -->
-
-## Format
-
-Demos and short labs
-
----
-
-## Questions for you
-
-How familiar are you with:
-
-1. ArcGIS Online (maps, data, services, analysis)
-2. ArcGIS API for JavaScript
+Sign up for a developer account at developers.arcgis.com
 
 ---
 
@@ -34,33 +11,23 @@ How familiar are you with:
 
 ## Agenda
 
-- Platform
-- Data
-- Design
-- Develop
+- What is GIS?
+- Careers in GIS
+- GIS Data
+- GIS Map Design
+- GIS Development with JavaScript
+- More Careers in GIS Talk
+- Questions
 
 ---
 
 <!-- .slide: class="section" -->
 
-# ArcGIS Platform
+# What is GIS?
 
 ---
 
-<div style="width: 100%; display: table;">
-    <div style="display: table-row">
-    <div style="width: 60%; float: left;"> 
-   <h3> Location Intelligence Everywhere </h3>
-   <ul>
-  <li>SaaS mapping and location platform</li>
-  <li>Comprehensive GIS</li>
-</ul>
-     </div>
-    <div style="width: 40%; float: right;"> 
-        <img src="images/Platform.png" alt="Platform" >
-    </div>
-    
-</div>
+https://youtu.be/LHDCRjAxpI0
 
 ---
 
