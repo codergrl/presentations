@@ -40,7 +40,7 @@ Geographic information systems (GIS) technology is a computerized framework for 
 
 ---
 
-Industries using GIS:
+## Industries using GIS:
 
 https://www.esri.com/en-us/industries/index
 
@@ -52,7 +52,13 @@ https://www.esri.com/en-us/industries/index
 
 ## Mara
 
-BS in Mathematics -> Engineering Tech -> Programmer Analyst -> GIS Techincal Lead -> GIS Developer -> GIS Development Supervisor -> Software Engineer at Esri
+- BS in Mathematics 2006
+- Engineering Tech 2006
+- Programmer Analyst 2008
+- GIS Techincal Lead 2010
+- Sr. GIS Developer 2010
+- GIS Development Supervisor 2015
+- Software Engineer at Esri 2016
 
 ---
 
@@ -97,14 +103,11 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 ## How to Find More GIS Data
 
-[Living Atlas of the World](https://livingatlas.arcgis.com/en/)<br>
-Beautiful and authoritative maps from Esri and many other organizations on thousands of topics.
+[Living Atlas of the World](https://livingatlas.arcgis.com/en/)
 
-[Portland Open Data Portal](http://gis-pdx.opendata.arcgis.com/)<br>
-GIS Data from the City of Portland
+[Portland Open Data Portal](http://gis-pdx.opendata.arcgis.com/)
 
-[Oregon Geospatial Data Clearinghouse](https://www.oregon.gov/geo/Pages/sdlibrary.aspx)<br>
-Reliable and up-to-date spatial data provided by the Oregon Department of Administrative Services Geospatial Enterprise Office and the Oregon State University. 
+[Oregon Geospatial Data Clearinghouse](https://www.oregon.gov/geo/Pages/sdlibrary.aspx)
 
 
 ---
@@ -205,6 +208,7 @@ Reliable and up-to-date spatial data provided by the Oregon Department of Admini
 Allison Davis: adavis@esri.com<br>
 @
 
+<br><br>
 Mara Stoica: mstoica@esri.com <br>
 Twitter: @codergrl<br>
 Github: @marastoica
