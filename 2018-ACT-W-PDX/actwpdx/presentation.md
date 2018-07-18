@@ -38,9 +38,21 @@ Geographic information systems (GIS) technology is a computerized framework for 
 
 # Careers in GIS
 
+---
+
 Industries using GIS:
 
 https://www.esri.com/en-us/industries/index
+
+---
+
+## Allison
+
+---
+
+## Mara
+
+BS in Mathematics -> Engineering Tech -> Programmer Analyst -> GIS Techincal Lead -> GIS Developer -> GIS Development Supervisor -> Software Engineer at Esri
 
 ---
 
@@ -54,23 +66,23 @@ https://www.esri.com/en-us/industries/index
 
 Definitions from [Esri Support Group](https://support.esri.com/en/other-resources/gis-dictionary)
 
-shapefile = A vector data storage format for storing the location, shape, and attributes of geographic features. A shapefile is stored in a set of related files and contains one feature class.
+**shapefile** = A vector data storage format for storing the location, shape, and attributes of geographic features. A shapefile is stored in a set of related files and contains one feature class.
 
-geoJSON =  GeoJson is an open standard format designed for representing simple geographical features, along with their non-spatial attributes. It is based on JSON, the JavaScript Object Notation.
+**geoJSON** =  GeoJson is an open standard format designed for representing simple geographical features, along with their non-spatial attributes. It is based on JSON, the JavaScript Object Notation.
 
-layer = The visual representation of a geographic dataset in any digital map environment. Conceptually, a layer is a slice or stratum of the geographic reality in a particular area, and is more or less equivalent to a legend item on a paper map. On a road map, for example, roads, national parks, political boundaries, and rivers might be considered different layers.
+**layer** = The visual representation of a geographic dataset in any digital map environment. Conceptually, a layer is a slice or stratum of the geographic reality in a particular area, and is more or less equivalent to a legend item on a paper map. On a road map, for example, roads, national parks, political boundaries, and rivers might be considered different layers.
 
-basemap = A basemap is a background georeferenced image that gives a point of reference on a map. Basemaps are non-editable and provides aesthetic appeal such as aerial imagery, topography, terrain and street layers.
+**basemap** = A basemap is a background georeferenced image that gives a point of reference on a map. Basemaps are non-editable and provides aesthetic appeal such as aerial imagery, topography, terrain and street layers.
 
-feature = A representation of a real-world object on a map.
+**feature** = A representation of a real-world object on a map.
 
-feature layer = A layer that references a set of feature data. Feature data represents geographic entities as points, lines, and polygons.
+**feature layer** = A layer that references a set of feature data. Feature data represents geographic entities as points, lines, and polygons.
 
-REST = Acronym for Representational State Transfer. An architecture for exchanging information between peers in a decentralized, distributed environment. REST allows programs on different computers to communicate independently of an operating system or platform by sending a Hypertext Transfer Protocol (HTTP) request to a uniform resource locator (URL) and getting back data in some formatfor example, XML, or inside a URL. REST is used in Web services.
+**REST** = Acronym for Representational State Transfer. An architecture for exchanging information between peers in a decentralized, distributed environment. REST allows programs on different computers to communicate independently of an operating system or platform by sending a Hypertext Transfer Protocol (HTTP) request to a uniform resource locator (URL) and getting back data in some formatfor example, XML, or inside a URL. REST is used in Web services.
 
-spatial query = A statement or logical expression that selects geographic features based on location or spatial relationship. For example, a spatial query might find which points are contained within a polygon or set of polygons, find features within a specified distance of a feature, or find features that are adjacent to each other.
+**spatial query** = A statement or logical expression that selects geographic features based on location or spatial relationship. For example, a spatial query might find which points are contained within a polygon or set of polygons, find features within a specified distance of a feature, or find features that are adjacent to each other.
 
-geocoding = A GIS operation for converting street addresses into spatial data that can be displayed as features on a map, usually by referencing address information from a street segment data layer.
+**geocoding** = A GIS operation for converting street addresses into spatial data that can be displayed as features on a map, usually by referencing address information from a street segment data layer.
 
 
 ---
@@ -83,7 +95,17 @@ geocoding = A GIS operation for converting street addresses into spatial data th
 
 ---
 
-## [Explore Layer Data](https://developers.arcgis.com/labs/arcgisonline/explore-layer-data/)
+## How to Find More GIS Data
+
+[Living Atlas of the World](https://livingatlas.arcgis.com/en/)<br>
+Beautiful and authoritative maps from Esri and many other organizations on thousands of topics.
+
+[Portland Open Data Portal](http://gis-pdx.opendata.arcgis.com/)<br>
+GIS Data from the City of Portland
+
+[Oregon Geospatial Data Clearinghouse](https://www.oregon.gov/geo/Pages/sdlibrary.aspx)<br>
+Reliable and up-to-date spatial data provided by the Oregon Department of Administrative Services Geospatial Enterprise Office and the Oregon State University. 
+
 
 ---
 
@@ -184,7 +206,8 @@ Allison Davis: adavis@esri.com<br>
 @
 
 Mara Stoica: mstoica@esri.com <br>
-@codergrl
+Twitter: @codergrl<br>
+Github: @marastoica
 
 ---
 
