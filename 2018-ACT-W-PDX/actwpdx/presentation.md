@@ -2,8 +2,8 @@
 
 ## Building a Mapping Application with Little to No Programming
 Mara Stoica & Allison Davis
-
-Sign up for a developer account at developers.arcgis.com
+<br><br>
+Sign up for a free developer account at developers.arcgis.com
 
 ---
 
@@ -26,119 +26,26 @@ Sign up for a developer account at developers.arcgis.com
 # What is GIS?
 
 ---
+Geographic information systems (GIS) technology is a computerized framework for gathering, managing, and analyzing data. Built upon the science of geography, it combines powerful mapping and visualization with a strong data integration, analysis, and modeling framework.
 
-https://youtu.be/LHDCRjAxpI0
-
----
-
-<!-- .slide: class="section" -->
-
-## ArcGIS Online
-- 2D and 3D
-- Create and visualize web maps and web scenes
-- Your data, fully hosted
-- Suite of rich basemaps
-- Imagery and demographics data
-- Geocoding, routing, geoenrichment
-- JavaScript API
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LHDCRjAxpI0/0.jpg)](https://www.youtube.com/watch?v=LHDCRjAxpI0)
 
 ---
 
 <!-- .slide: class="section" -->
 
-## Story Maps and Dashboard Apps
-![Story Maps and Dashboard Apps](images/StoryMapAndDashboard.png)
-
+## Next Slide
+Slide text
 ---
 
 <!-- .slide: class="section" -->
 
-## Field Apps
-![Field Apps](images/FieldApps.png)
-
-
-
-
-
-
-
-
-
-
-
-                        http://esriurl.com/hackpdx
-
-
-
-
-
-
-
-
----
-
-<!-- .slide: class="section" -->
-## Insights
-![Insights](images/Insights.png)
-
----
-
-<!-- .slide: class="section" -->
-## App Builders
-![App Builders](images/Builders.png)
-
----
-
-<!-- .slide: class="section" -->
-## ArcGIS Enterprise
-- System of record and engagement
-- GIS in your own infrastructure
-- Data management, mapping, analysis
-- Utility networks
-- Geostatistics, spatial statistics and pattern mining
-- Image analysis
-- Big data spatial analytics
-- Real time analytics
-
----
-
-<!-- .slide: class="section" -->
-## ArcGIS Pro
-![ArcGIS Pro](images/Pro.png)
-
----
-
-<!-- .slide: class="section" -->
-## GeoEvent Server
-![GeoEvent Server](images/GeoEvent.png)
-
----
-
-<!-- .slide: class="section" -->
-## ArcGIS Hub
-![ArcGIS Hub](images/Hub.png)
-
----
-
-## ArcGIS Dev Process
-
----
-
-## Getting set up
-
-1. Sign up for FREE ArcGIS Developer Account
-2. Explore some projects on esri.github.io
-3. Explore ArcGIS.com
-
-Voucher Code: *PDXJUN2018*
-
-
+# Careers in GIS
 ---
 
 <!-- .slide: class="section" -->
 
-# Data
-
+# GIS Data
 ---
 
 ## [Import Data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
@@ -155,7 +62,7 @@ Voucher Code: *PDXJUN2018*
 
 <!-- .slide: class="section" -->
 
-# Design
+# GIS Map Design
 
 ---
 
@@ -181,7 +88,7 @@ Voucher Code: *PDXJUN2018*
 
 <!-- .slide: class="section" -->
 
-# Develop
+# GIS Development with JavaScript
 
 ---
 
@@ -239,7 +146,7 @@ Voucher Code: *PDXJUN2018*
 
 <!-- .slide: class="section" -->
 
-# Summary
+# More Careers in GIS Talk
 
 ---
 
@@ -249,5 +156,16 @@ Voucher Code: *PDXJUN2018*
 
 ---
 
+<!-- .slide: class="agenda" -->
+
+## Contact Information
+
+Allison Davis
+adavis@esri.com
+
+Mara Stoica
+mstoica@esri.com
+
+---
 
 <!-- .slide: class="end" -->
