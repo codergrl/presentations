@@ -14,6 +14,7 @@ Sign up for a free developer account at developers.arcgis.com
 - What is GIS?
 - Careers in GIS
 - GIS Data
+
 - GIS Map Design
 - GIS Development with JavaScript
 - More Careers in GIS Talk
@@ -36,16 +37,19 @@ Geographic information systems (GIS) technology is a computerized framework for 
 
 ## Next Slide
 Slide text
+
 ---
 
 <!-- .slide: class="section" -->
 
 # Careers in GIS
+
 ---
 
 <!-- .slide: class="section" -->
 
 # GIS Data
+
 ---
 
 ## [Import Data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
@@ -158,13 +162,12 @@ Slide text
 
 <!-- .slide: class="agenda" -->
 
-## Contact Information
 
-Allison Davis
-adavis@esri.com
+Allison Davis: adavis@esri.com<br>
+@
 
-Mara Stoica
-mstoica@esri.com
+Mara Stoica: mstoica@esri.com <br>
+@codergrl
 
 ---
 
