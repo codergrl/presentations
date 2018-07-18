@@ -2,8 +2,10 @@
 
 ## Building a Mapping Application with Little to No Programming
 Mara Stoica & Allison Davis
-<br><br>
+
 Sign up for a free developer account at developers.arcgis.com
+
+Follow along at http://esriurl.com/act2018
 
 ---
 
@@ -14,10 +16,8 @@ Sign up for a free developer account at developers.arcgis.com
 - What is GIS?
 - Careers in GIS
 - GIS Data
-
 - GIS Map Design
 - GIS Development with JavaScript
-- More Careers in GIS Talk
 - Questions
 
 ---
@@ -29,14 +29,7 @@ Sign up for a free developer account at developers.arcgis.com
 ---
 Geographic information systems (GIS) technology is a computerized framework for gathering, managing, and analyzing data. Built upon the science of geography, it combines powerful mapping and visualization with a strong data integration, analysis, and modeling framework.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LHDCRjAxpI0/0.jpg)](https://www.youtube.com/watch?v=LHDCRjAxpI0)
-
----
-
-<!-- .slide: class="section" -->
-
-## Next Slide
-Slide text
+[![What is GIS](https://img.youtube.com/vi/LHDCRjAxpI0/0.jpg)](https://www.youtube.com/watch?v=LHDCRjAxpI0)
 
 ---
 
@@ -145,12 +138,6 @@ Slide text
 ---
 
 ## [@arcgis/cli](https://github.com/Esri/arcgis-js-cli)
-
----
-
-<!-- .slide: class="section" -->
-
-# More Careers in GIS Talk
 
 ---
 
