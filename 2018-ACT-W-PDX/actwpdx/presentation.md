@@ -206,7 +206,8 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 
 Allison Davis: adavis@esri.com<br>
-@
+Twitter: @skeeveholt<br>
+Github: @araedavis
 
 <br><br>
 Mara Stoica: mstoica@esri.com <br>
