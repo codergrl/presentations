@@ -76,11 +76,11 @@ Geographic information systems (GIS) technology is a computerized framework for 
 ## Quick Vocabulary Lesson
 <br>
 
-[**shapefile** **geoJSON**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**shapefile** | **geoJSON**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
-[**basemap** **layer** **feature** **feature layer**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**basemap** | **layer** | **feature** | **feature | layer**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
-[**REST** **spatial query** **geocoding**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**REST** | **spatial query** | **geocoding**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
 <br><br><br>
 Definitions from [Esri Support Group](https://support.esri.com/en/other-resources/gis-dictionary)
