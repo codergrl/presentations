@@ -95,20 +95,15 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 ## [Import Data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
 
----
-
-## [Create a new Dataset](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/)
-
----
+## [Create a new Dataset](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) (optional)
 
 ## How to Find More GIS Data
 
 [Living Atlas of the World](https://livingatlas.arcgis.com/en/)
 
-[Portland Open Data Portal](http://gis-pdx.opendata.arcgis.com/)
+[Portland Open Data Portal](http://gis-pdx.opendata.arcgis.com/) 
 
 [Oregon Geospatial Data Clearinghouse](https://www.oregon.gov/geo/Pages/sdlibrary.aspx)
-
 
 ---
 
@@ -120,23 +115,13 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 ## [Create a Webmap](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/)
 
----
-
 ## [Style a Webmap](https://developers.arcgis.com/labs/arcgisonline/style-a-web-map/)
-
----
 
 ## [Style a Vector Basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
 
----
+## [Configure Popups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
 
-## [Configure Popups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/)
-
----
-
-## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
-
----
+## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/) (optional)
 
 <!-- .slide: class="section" -->
 
@@ -146,53 +131,11 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 ## [Display a Webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
----
-
 ## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
-
----
 
 ## [Create a 2D map with a layer](https://developers.arcgis.com/labs/javascript/create-a-2d-map-with-a-layer/)
 
----
-
 ## [Create a 3D scene with a layer](https://developers.arcgis.com/labs/javascript/create-a-3d-scene-with-a-layer/)
-
----
-
-## [Style a feature layer](https://developers.arcgis.com/labs/javascript/style-a-feature-layer/)
-
----
-
-## [Configure a pop-up](https://developers.arcgis.com/labs/javascript/configure-a-popup/)
-
----
-
-## [Query a feature layer](https://developers.arcgis.com/labs/javascript/query-a-feature-layer/)
-
----
-
-## [Create graphics](https://developers.arcgis.com/labs/javascript/create-graphics/)
-
----
-
-## [Track your location](https://developers.arcgis.com/labs/javascript/track-your-location/)
-
----
-
-## [Search and Geocode](https://developers.arcgis.com/labs/javascript/search-and-geocode/)
-
----
-
-## [Get Driving Directions](https://developers.arcgis.com/labs/javascript/get-driving-directions/)
-
----
-
-## [Access a private layer](https://developers.arcgis.com/labs/javascript/access-private-layers/)
-
----
-
-## [@arcgis/cli](https://github.com/Esri/arcgis-js-cli)
 
 ---
 
