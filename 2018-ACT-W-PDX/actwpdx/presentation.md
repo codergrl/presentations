@@ -2,7 +2,7 @@
 
 ## Building a Mapping Application with Little to No Programming
 Mara Stoica & Allison Davis
-
+<br><br><br>
 Sign up for a free developer account at [developers.arcgis.com](http://developers.arcgis.com)
 
 Follow along at [http://esriurl.com/act2018](http://esriurl.com/act2018)
@@ -41,8 +41,8 @@ Geographic information systems (GIS) technology is a computerized framework for 
 ---
 
 ## Industries using GIS:
-
-https://www.esri.com/en-us/industries/index
+<br>
+[https://www.esri.com/en-us/industries/index](https://www.esri.com/en-us/industries/index)
 
 ---
 
@@ -69,8 +69,7 @@ https://www.esri.com/en-us/industries/index
 ---
 
 ## Quick Vocabulary Lesson
-
-Definitions from [Esri Support Group](https://support.esri.com/en/other-resources/gis-dictionary)
+<br>
 
 [**shapefile** **geoJSON**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
@@ -78,11 +77,16 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 [**REST** **spatial query** **geocoding**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
+<br><br><br>
+Definitions from [Esri Support Group](https://support.esri.com/en/other-resources/gis-dictionary)
+
 ---
 
 ## [Import Data](https://developers.arcgis.com/labs/arcgisonline/import-data/)
+<br>
 
 ## [Create a new Dataset](https://developers.arcgis.com/labs/arcgisonline/create-a-new-dataset/) (optional)
+<br>
 
 ## How to Find More GIS Data
 
@@ -101,14 +105,21 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ---
 
 ## [Create a Webmap](https://developers.arcgis.com/labs/arcgisonline/create-a-web-map/)
+<br>
 
 ## [Style a Webmap](https://developers.arcgis.com/labs/arcgisonline/style-a-web-map/)
+<br>
 
 ## [Style a Vector Basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+<br>
 
 ## [Configure Popups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
+<br>
 
 ## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/) (optional)
+<br>
+
+---
 
 <!-- .slide: class="section" -->
 
@@ -117,6 +128,7 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ---
 
 ## Web Apps
+<br>
 
 [Configurable Apps](http://www.esri.com/software/configurable-apps)
 
@@ -127,12 +139,16 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ---
 
 ## [Display a Webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+<br>
 
 ## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+<br>
 
 ## [Create a 2D map with a layer](https://developers.arcgis.com/labs/javascript/create-a-2d-map-with-a-layer/)
+<br>
 
 ## [Create a 3D scene with a layer](https://developers.arcgis.com/labs/javascript/create-a-3d-scene-with-a-layer/)
+<br>
 
 ---
 
