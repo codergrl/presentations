@@ -115,13 +115,10 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ## [Style a Webmap](https://developers.arcgis.com/labs/arcgisonline/style-a-web-map/)
 <br>
 
-## [Style a Vector Basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+## [Configure Pop-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
 <br>
 
-## [Configure Popups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
-<br>
 
-## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/) (optional)
 <br>
 
 ---
@@ -142,21 +139,27 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 [Operations Dashboard](https://doc.arcgis.com/en/operations-dashboard/)
 
 ---
-
-## [Display a Webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+# Using the ArcGIS API for JavaScript
+<br>
+## [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 <br>
 
-## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
-<br>
-
-## [Create a 2D map with a layer](https://developers.arcgis.com/labs/javascript/create-a-2d-map-with-a-layer/)
-<br>
-
-## [Create a 3D scene with a layer](https://developers.arcgis.com/labs/javascript/create-a-3d-scene-with-a-layer/)
-<br>
+## [Add a basemap toggle widget](https://developers.arcgis.com/javascript/latest/sample-code/intro-widgets/)
 
 ---
 
+## More cool things
+<br>
+## [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+<br>
+## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+<br>
+## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
+<br>
+## [Create a web scene (3D)](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/)
+
+
+---
 <!-- .slide: class="questions" -->
 
 ## Let's open a bike store!
