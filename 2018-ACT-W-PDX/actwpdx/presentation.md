@@ -159,6 +159,12 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 <!-- .slide: class="questions" -->
 
+## Let's open a bike store!
+
+---
+
+<!-- .slide: class="questions" -->
+
 ## Questions?
 
 ---
