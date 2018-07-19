@@ -48,6 +48,11 @@ Geographic information systems (GIS) technology is a computerized framework for 
 
 ## Allison
 
+- BA in English and Gender Studies 2007
+- School programs manager at local arts org
+- Code school (JavaScript) 2016
+- JavaScript Developer at Esri 2016
+
 ---
 
 ## Mara
@@ -55,7 +60,7 @@ Geographic information systems (GIS) technology is a computerized framework for 
 - BS in Mathematics 2006
 - Engineering Tech 2006
 - Programmer Analyst 2008
-- GIS Techincal Lead 2010
+- GIS Technical Lead 2010
 - Sr. GIS Developer 2010
 - GIS Development Supervisor 2015
 - Software Engineer at Esri 2016
