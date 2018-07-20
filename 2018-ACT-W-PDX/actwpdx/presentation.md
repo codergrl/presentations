@@ -141,22 +141,22 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ---
 # Using the ArcGIS API for JavaScript
 <br>
-## [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+[Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 <br>
 
-## [Add a basemap toggle widget](https://developers.arcgis.com/javascript/latest/sample-code/intro-widgets/)
+[Add a basemap toggle widget](https://developers.arcgis.com/javascript/latest/sample-code/intro-widgets/)
 
 ---
 
 ## More cool things
 <br>
-## [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+[Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
 <br>
-## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+[Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
 <br>
-## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
+[Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
 <br>
-## [Create a web scene (3D)](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/)
+[Create a web scene (3D)](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/)
 
 
 ---
