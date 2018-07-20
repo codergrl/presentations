@@ -139,25 +139,24 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 [Operations Dashboard](https://doc.arcgis.com/en/operations-dashboard/)
 
 ---
-# Using the ArcGIS API for JavaScript
+## Using the ArcGIS API for JavaScript
 <br>
 [Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
-<br>
 
 [Add a basemap toggle widget](https://developers.arcgis.com/javascript/latest/sample-code/intro-widgets/)
 
 ---
+<!-- .slide: class="section" -->
 
-## More cool things
+# More cool things
 <br>
 [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
-<br>
-[Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
-<br>
-[Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
-<br>
-[Create a web scene (3D)](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/)
 
+[Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+
+[Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
+
+[Create a web scene (3D)](https://developers.arcgis.com/labs/arcgisonline/create-a-web-scene/)
 
 ---
 <!-- .slide: class="questions" -->
