@@ -60,8 +60,8 @@ Geographic information systems (GIS) technology is a computerized framework for 
 - BS in Mathematics 2006
 - Engineering Tech 2006
 - Programmer Analyst 2008
-- GIS Technical Lead 2010
-- Sr. GIS Developer 2010
+- GIS Technical Lead 2012
+- Sr. GIS Developer 2012
 - GIS Development Supervisor 2015
 - Software Engineer at Esri 2016
 
