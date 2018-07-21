@@ -156,7 +156,7 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 [Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
 
 [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
-<br>
+<br><BR>
 
 ## Smart mapping
 <br>
