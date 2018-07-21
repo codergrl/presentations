@@ -118,9 +118,6 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ## [Configure Pop-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
 <br>
 
-
-<br>
-
 ---
 
 <!-- .slide: class="section" -->
