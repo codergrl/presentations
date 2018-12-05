@@ -85,8 +85,8 @@ Mara Stoica
 
 <!-- .slide: class="contact" -->
 
-Mara Stoica
-mstoica@esri.com
+Mara Stoica<br>
+mstoica@esri.com<br>
 @codergrl on Twitter and GitHub
 
 ---
