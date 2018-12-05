@@ -1,3 +1,3 @@
 # GeoDev Hackerlab
 
-[https://marastoica.github.io/presentations/2018-GeoDev-Meetup-December/meetup](https://marastoica.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/)
+[https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup](https://codergrl.github.io/presentations/2018-GeoDev-Meetup-December/meetup/index.html#/)

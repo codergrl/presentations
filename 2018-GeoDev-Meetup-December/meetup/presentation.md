@@ -9,17 +9,19 @@ Mara Stoica
 
 ## Why develop cross platform?
 
-1. Write less code
-2. Write in your preferred language
-3. Save time
-4. Save money
+- Write less code
+- Have less maintenance
+- Write in your preferred language
+- Save time
+- Save money
 
 ---
 
 <!-- .slide: class="agenda" -->
 
-## Cross platform frameworks
+## Options
 
+- Web
 - Hybrid
 - Native
 
@@ -27,7 +29,7 @@ Mara Stoica
 
 ## Hybrid
 
-- Compiled into native apps
+- Compile into native apps
 - Can make use of platform capabilities
 - Use web views to build the UI
 - Slower than native apps
@@ -36,18 +38,18 @@ Mara Stoica
 
 <!-- .slide: class="agenda" -->
 
-## Some examples of hybrid platforms
+## Hybrid platforms
 
 - Cordova
 - PhoneGap
 - Ionic
-- ...
+- And many more
 
 ---
 
 <!-- .slide: class="section" -->
 
-# Native
+## Native
 
 - Compile into native code
 - Performance similar to native apps
@@ -58,7 +60,7 @@ Mara Stoica
 
 <!-- .slide: class="section" -->
 
-## Some examples of native platforms
+## Native platforms
 
 - React Native - JavaScript
 - Weex - JavaScript, WORA
@@ -78,6 +80,14 @@ Mara Stoica
 - Xamarin
 - Qt
 - JavaScript
+
+---
+
+<!-- .slide: class="contact" -->
+
+Mara Stoica
+mstoica@esri.com
+@codergrl on Twitter and GitHub
 
 ---
 
