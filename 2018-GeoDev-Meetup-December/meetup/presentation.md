@@ -2,6 +2,7 @@
 
 ## Cross Platform Mobile Development
 Mara Stoica
+@codergrl on Twitter and GitHub
 
 ---
 
@@ -80,14 +81,6 @@ Mara Stoica
 - Xamarin
 - Qt
 - JavaScript
-
----
-
-<!-- .slide: class="contact" -->
-
-Mara Stoica<br>
-mstoica@esri.com<br>
-@codergrl on Twitter and GitHub
 
 ---
 
