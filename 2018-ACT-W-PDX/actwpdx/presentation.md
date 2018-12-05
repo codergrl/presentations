@@ -48,6 +48,11 @@ Geographic information systems (GIS) technology is a computerized framework for 
 
 ## Allison
 
+- BA in English and Gender Studies 2007
+- School programs manager at local arts org
+- Code school (JavaScript) 2016
+- JavaScript Developer at Esri 2016
+
 ---
 
 ## Mara
@@ -55,8 +60,8 @@ Geographic information systems (GIS) technology is a computerized framework for 
 - BS in Mathematics 2006
 - Engineering Tech 2006
 - Programmer Analyst 2008
-- GIS Techincal Lead 2010
-- Sr. GIS Developer 2010
+- GIS Technical Lead 2012
+- Sr. GIS Developer 2012
 - GIS Development Supervisor 2015
 - Software Engineer at Esri 2016
 
@@ -71,11 +76,11 @@ Geographic information systems (GIS) technology is a computerized framework for 
 ## Quick Vocabulary Lesson
 <br>
 
-[**shapefile** **geoJSON**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**shapefile** | **geoJSON**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
-[**basemap** **layer** **feature** **feature layer**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**basemap** | **layer** | **feature** | **feature | layer**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
-[**REST** **spatial query** **geocoding**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
+[**REST** | **spatial query** | **geocoding**](https://github.com/marastoica/presentations/blob/master/2018-ACT-W-PDX/actwpdx/definitions.md)
 
 <br><br><br>
 Definitions from [Esri Support Group](https://support.esri.com/en/other-resources/gis-dictionary)
@@ -110,13 +115,7 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 ## [Style a Webmap](https://developers.arcgis.com/labs/arcgisonline/style-a-web-map/)
 <br>
 
-## [Style a Vector Basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
-<br>
-
-## [Configure Popups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
-<br>
-
-## [Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/) (optional)
+## [Configure Pop-ups](https://developers.arcgis.com/labs/arcgisonline/configure-pop-ups/) (optional)
 <br>
 
 ---
@@ -138,17 +137,31 @@ Definitions from [Esri Support Group](https://support.esri.com/en/other-resource
 
 ---
 
-## [Display a Webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+## Using the ArcGIS API for JavaScript
 <br>
+[Display a webmap](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
 
-## [Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
-<br>
+[Add a basemap toggle widget](https://developers.arcgis.com/javascript/latest/sample-code/intro-widgets/)
 
-## [Create a 2D map with a layer](https://developers.arcgis.com/labs/javascript/create-a-2d-map-with-a-layer/)
-<br>
+---
 
-## [Create a 3D scene with a layer](https://developers.arcgis.com/labs/javascript/create-a-3d-scene-with-a-layer/)
+<!-- .slide: class="section" -->
+
+# More cool things
+
+---
+
+## Custom Basemaps
 <br>
+[Style a vector basemap](https://developers.arcgis.com/labs/arcgisonline/style-a-vector-basemap/)
+
+[Display a styled vector basemap](https://developers.arcgis.com/labs/javascript/display-a-styled-vector-basemap/)
+
+---
+
+## Smart mapping
+<br>
+[Style feature layers with smart mapping](https://developers.arcgis.com/labs/arcgisonline/style-feature-layers-with-smart-mapping/)
 
 ---
 
