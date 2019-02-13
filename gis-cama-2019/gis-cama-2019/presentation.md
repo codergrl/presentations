@@ -38,7 +38,7 @@ Matt Bryant - Chief Technology Officer at DEVNET
 
 <!-- .slide: class="bg-5" -->
 
-## Configure, Customize or Develop?
+## Configure, Customize or Develop
 
 Configuration: the process of setting up options using the administrative tools supplied within the application.<br>
 Customization: modification of the base product itself though code.<br>
@@ -48,11 +48,11 @@ Development: creation of custom solutions that run independently of other system
 
 <!-- .slide: class="background" -->
 
-| Configure | Customize | Develop |
-| --------- | --------- | ------- |
-| Collector | | |
-| WebApp Builder | |
-|  | App Studio |
+| | Configure | Customize | Develop |
+|-| :-------: | :-------: | :-----: |
+|| Collector | | |
+| <td colspan=2>WebApp Builder  | |
+|| <td colspan=2>App Studio |
 
 ---
 
@@ -91,9 +91,21 @@ Explorer
 
 ---
 
+<!-- .slide: class="section" -->
+
+# Customization
+
+---
+
+<!-- .slide: class="section" -->
+
+# Development
+
+---
+
 <!-- .slide: class="questions" -->
 
-## Questions?
+## Questions
 
 ---
 
