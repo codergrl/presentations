@@ -30,8 +30,8 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 <!-- .slide: class="bg-7" -->
 
-Mara Stoica - .NET Software Engineer at Esri
-Justin Colville - Product Engineer at Esri
+Mara Stoica - .NET Software Engineer at Esri<br>
+Justin Colville - Product Engineer at Esri<br>
 Matt Bryant - Chief Technology Officer at DEVNET
 
 ---
@@ -40,8 +40,8 @@ Matt Bryant - Chief Technology Officer at DEVNET
 
 ## Configure, Customize or Develop?
 
-Configuration: the process of setting up options using the administrative tools supplied within the application.
-Customization: modification of the base product itself though code.
+Configuration: the process of setting up options using the administrative tools supplied within the application.<br>
+Customization: modification of the base product itself though code.<br>
 Development: creation of custom solutions that run independently of other systems.
 
 ---
