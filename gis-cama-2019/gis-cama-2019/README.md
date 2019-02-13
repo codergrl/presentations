@@ -1,3 +1,3 @@
 # ACT-W Workshop
 
-[https://marastoica.github.io/presentations/gis-cama-2019/gis-cama-2019](https://marastoica.github.io/presentations/gis-cama-2019/gis-cama-2019/index.html#/)
+[https://codergrl.github.io/presentations/gis-cama-2019/gis-cama-2019](https://codergrl.github.io/presentations/gis-cama-2019/gis-cama-2019/index.html#/)
