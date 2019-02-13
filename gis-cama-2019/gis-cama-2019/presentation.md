@@ -98,3 +98,5 @@ Explorer
 ---
 
 <!-- .slide: class="end" -->
+
+![Esri](images/logo.png)
