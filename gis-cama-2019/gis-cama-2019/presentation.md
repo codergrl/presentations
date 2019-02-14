@@ -46,16 +46,6 @@ Development: creation of custom solutions that run independently of other system
 
 ---
 
-<!-- .slide: class="background" -->
-
-| | Configure | Customize | Develop |
-|-| :-------: | :-------: | :-----: |
-|| Collector | | |
-| <td colspan=2>WebApp Builder  | |
-|| <td colspan=2>App Studio |
-
----
-
 <!-- .slide: class="section" -->
 
 # Configuration
@@ -75,15 +65,54 @@ Explorer
 
 ---
 
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+
+---
+
+<!-- .slide: class="background" -->
+
 ## Arcade
 
 ---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+
+---
+
+<!-- .slide: class="background" -->
 
 ## Operations Dashboard
 
 [Dashboard](https://doc.arcgis.com/en/operations-dashboard/)
 
 ---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+
+---
+
+<!-- .slide: class="background" -->
 
 ## Web AppBuilder
 
@@ -97,10 +126,175 @@ Explorer
 
 ---
 
+<!-- .slide: class="background" -->
+
+## Web AppBuilder
+
+[Web AppBuilder](https://developers.arcgis.com/web-appbuilder/)
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+---
+
+<!-- .slide: class="background" -->
+
+## AppStudio
+
+[AppStudio](https://appstudio.arcgis.com/)
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  |  |
+---
+
+<!-- .slide: class="background" -->
+
+## ArcGIS Pro DSK
+
+[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  |  |
+| ArcGIS Pro SDK |  :x: | :heavy_check_mark: | :x: |
+
+---
+
+<!-- .slide: class="background" -->
+
+## Arcpy
+
+Arcpy
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  |  |
+| ArcGIS Pro SDK |  :x: | :heavy_check_mark: | :x: |
+| Arcpy |  :x: | :heavy_check_mark: | :x: |
+
+---
+
 <!-- .slide: class="section" -->
 
 # Development
 
+---
+
+<!-- .slide: class="background" -->
+
+## ArcGIS API for Python
+
+[ArcGIS API for Python](https://developers.arcgis.com/python/)
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  |  |
+| ArcGIS Pro SDK |  :x: | :heavy_check_mark: | :x: |
+| Arcpy |  :x: | :heavy_check_mark: | :x: |
+| ArcGIS API for Python |  :x: | :x: | :heavy_check_mark: |
+
+---
+
+<!-- .slide: class="background" -->
+
+## JavaScript API
+
+[JavaScript API](https://developers.arcgis.com/javascript/)
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  |  |
+| ArcGIS Pro SDK |  :x: | :heavy_check_mark: | :x: |
+| Arcpy |  :x: | :heavy_check_mark: | :x: |
+| ArcGIS API for Python |  :x: | :x: | :heavy_check_mark: |
+| Javascript API |  :x: | :x: | :heavy_check_mark: |
+
+---
+
+<!-- .slide: class="background" -->
+
+## Runtime APIs
+
+Runtime APIs
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | :heavy_check_mark: | :x: | :x: |
+| Explorer |  :heavy_check_mark: | :x: | :x: |
+| Survey123 |  :heavy_check_mark: | :x: | :x: |
+| Arcade |  :heavy_check_mark: | :x: | :x: |
+| Dashboard |  :heavy_check_mark: | :x: | :x: |
+| Web AppBuilder |  :heavy_check_mark: | :heavy_check_mark:  | :x: |
+| AppStudio |  :heavy_check_mark: | :heavy_check_mark:  | :heavy_check_mark: |
+| ArcGIS Pro SDK |  :x: | :heavy_check_mark: | :x: |
+| Arcpy |  :x: | :heavy_check_mark: | :x: |
+| ArcGIS API for Python |  :x: | :x: | :heavy_check_mark: |
+| Javascript API |  :x: | :x: | :heavy_check_mark: |
+| Runtime APIs |  :x: | :x: | :heavy_check_mark: |
 ---
 
 <!-- .slide: class="questions" -->
