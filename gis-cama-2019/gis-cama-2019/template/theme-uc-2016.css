@@ -44,7 +44,7 @@ body {
 
 .reveal {
   font-family: 'Source Sans Pro', Helvetica, sans-serif;
-  font-size: 38px;
+  font-size: 22px;
   font-weight: normal;
   color: #fff; }
 
@@ -188,7 +188,7 @@ body {
   border-spacing: 0; }
 
 .reveal table th {
-  font-weight: bold; }
+  font-weight: bold;  }
 
 .reveal table th, .reveal table td {
   text-align: left;
@@ -200,9 +200,12 @@ body {
 
 .reveal table th[align="right"], .reveal table td[align="right"] {
   text-align: right; }
+ 
+.reveal table tr {
+  font-size: 1em; }
 
 .reveal table tr:last-child td {
-  border-bottom: none; }
+  border-bottom: none;  }
 
 .reveal sup {
   vertical-align: super; }
