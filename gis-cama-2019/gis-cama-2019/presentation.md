@@ -144,6 +144,7 @@ Explorer
 | Arcade |  ✔️ | ❌ | ❌ |
 | Dashboard |  ✔️ | ❌ | ❌ |
 | Web AppBuilder |  ✔️ | ✔️  | ❌ |
+
 ---
 
 <!-- .slide: class="background" -->
@@ -165,6 +166,7 @@ Explorer
 | Dashboard |  ✔️ | ❌ | ❌ |
 | Web AppBuilder |  ✔️ | ✔️  | ❌ |
 | AppStudio |  ✔️ | ✔️  |  |
+
 ---
 
 <!-- .slide: class="background" -->
@@ -295,6 +297,7 @@ Runtime APIs
 | ArcGIS API for Python |  ❌ | ❌ | ✔️ |
 | Javascript API |  ❌ | ❌ | ✔️ |
 | Runtime APIs |  ❌ | ❌ | ✔️ |
+
 ---
 
 <!-- .slide: class="questions" -->
