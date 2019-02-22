@@ -91,11 +91,12 @@ Development - Creation of custom solutions that run independently of other syste
 ## Data Collection
 
  - Collector
-  - Map centric<br>
- - Survey123 - Form based<br>
- - Partner integration<br>
-  - Eos Positioning + LTI<br>
-  - Trimble - R1/R2/R102 integration<br>
+  - Map centric
+ - Survey123 - Form based
+ - Partner integration
+  - Eos Positioning + LTI
+  - Trimble - R1/R2/R102 integration
+  
 ---
 
 <!-- .slide: class="bg-5" -->
