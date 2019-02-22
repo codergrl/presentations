@@ -1,6 +1,6 @@
 <!-- .slide: class="title" -->
 
-## Extending the Capabilities and Offerings of your GIS: A guided tour of Esri’s Developer Resources 
+## Extending the Capabilities and Offerings of your GIS: A guided tour of Esri’s Developer Resources
 Mara Stoica, Justin Colville & Matt Bryant
 <br><br><br>
 
@@ -13,10 +13,10 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 ## Agenda
 
 - Introduction
-- Configurable Apps
-- Customizable Solutions
+- Configure
+- Customize
 - Break
-- Developer Options
+- Develop
 - Wrap-up
 - Questions
 
@@ -38,30 +38,72 @@ Matt Bryant - Chief Technology Officer at DEVNET
 
 <!-- .slide: class="bg-5" -->
 
+## Apps and Builders and APIs, oh my?
+
+There are a lot of options for extending the ArcGIS platform.<br>
+Consider your users and team needs.<br>
+Choose the right tools for the solution.
+
+---
+
+<!-- .slide: class="bg-5" -->
+
 ## Configure, Customize or Develop
 
-Configuration: the process of setting up options using the administrative tools supplied within the application.<br>
-Customization: modification of the base product itself though code.<br>
-Development: creation of custom solutions that run independently of other systems.
+Configuration - The process of setting up options using the administrative tools supplied within the application.<br>
+Customization - Modification of the base product itself though code.<br>
+Development - Creation of custom solutions that run independently of other systems.
+
+---
+
+<!-- .slide: class="bg-5" -->
+
+## Resources
+
+[doc.arcgis.com](https://doc.arcgis.com/)<br>
+[solutions.arcgis.com](https://solutions.arcgis.com/)<br>
+[developers.arcgis.com](https://developers.arcgis.com/)
 
 ---
 
 <!-- .slide: class="section" -->
 
-# Configuration
+# Configure
 
 ---
 
 <!-- .slide: class="background" -->
 
 ## Field Operations
-<br>
 
-[Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis/resources)
+ - Suite of purpose-built apps working together<br>
+  - [Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis/resources)
+  - Explorer
+  - Workforce
+  - Navigator
+  - Tracker
+  - [Survey123](https://www.esri.com/en-us/arcgis/products/survey123/resources)
 
-Explorer
+---
 
-[Survey123](https://www.esri.com/en-us/arcgis/products/survey123/resources)
+<!-- .slide: class="bg-5" -->
+
+## Data Collection
+
+ - Collector
+  - Map centric<br>
+ - Survey123 - Form based<br>
+ - Partner integration<br>
+  - Eos Positioning + LTI<br>
+  - Trimble - R1/R2/R102 integration<br>
+---
+
+<!-- .slide: class="bg-5" -->
+
+## Tracking and Viewing
+
+ - Tracker
+ - Explorer
 
 ---
 
@@ -78,6 +120,17 @@ Explorer
 <!-- .slide: class="background" -->
 
 ## Arcade
+
+---
+
+<!-- .slide: class="bg-5" -->
+
+## Arcade
+
+Simple and portable expressions language<br>
+[developers.arcgis.com/arcade](https://developers.arcgis.com/arcade/)<br>
+[Toronto Neighborhoods Urban Trees](http://jsapi.maps.arcgis.com/home/item.html?id=2b998111603f4cd4bf135647b24b21b6)<br>
+[What’s new with Arcade: Taking a stroll through FeatureSets](https://www.esri.com/arcgis-blog/products/mapping/mapping/whats-new-with-arcade-taking-a-stroll-through-featuresets-part-2/)
 
 ---
 
@@ -122,7 +175,7 @@ Explorer
 
 <!-- .slide: class="section" -->
 
-# Customization
+# Customize
 
 ---
 
@@ -218,7 +271,7 @@ Arcpy
 
 <!-- .slide: class="section" -->
 
-# Development
+# Develop
 
 ---
 
