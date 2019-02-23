@@ -96,7 +96,7 @@ Development - Creation of custom solutions that run independently of other syste
  - Partner integration
   - Eos Positioning + LTI
   - Trimble - R1/R2/R102 integration
-  
+
 ---
 
 <!-- .slide: class="bg-5" -->
