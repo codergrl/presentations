@@ -30,9 +30,29 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 <!-- .slide: class="bg-7" -->
 
-Mara Stoica - .NET Software Engineer at Esri<br>
-Justin Colville - Product Engineer at Esri<br>
-Matt Bryant - Chief Technology Officer at DEVNET
+<div class="container">
+    <div class="col" style="text-align:left">
+        ![Esri](images/small-logo.png)<br>
+        Mara Stoica<br>
+        .NET Software Engineer<br>
+        Esri<br>
+        [mstoica@esri.com](mailto:mstoica@esri.com)
+    </div>
+    <div class="col" style="text-align:left">
+        ![Esri](images/small-logo.png)<br>
+        Justin Colville<br>
+        Product Engineer<br>
+        Esri<br>
+        [jcolville@esri.com](mailto:jcolville@esri.com)
+    </div>
+    <div class="col" style="text-align:left">
+        ![DEVNET](images/devnet-d-icon.png)<br>
+        Matt Bryant<br>
+        Chief Technology Officer<br>
+        DEVNET<br>
+        [bryant@devnetinc.com](mailto:bryant@devnetinc.com)
+    </div>
+</div>
 
 ---
 
@@ -48,11 +68,20 @@ Choose the right tools for the solution.
 
 <!-- .slide: class="bg-5" -->
 
-## Configure, Customize or Develop
-
-Configuration - The process of setting up options using the administrative tools supplied within the application.<br>
-Customization - Modification of the base product itself though code.<br>
-Development - Creation of custom solutions that run independently of other systems.
+<div class="container">
+    <div class="col" style="text-align:left">
+        <h3>Configuration</h3>
+        The process of setting up options using the administrative tools supplied within the application.
+    </div>
+    <div class="col" style="text-align:left">
+        <h3>Customization</h3>
+        Modification of the base product itself though code.
+    </div>
+    <div class="col" style="text-align:left">
+        <h3>Development</h3>
+        Creation of custom solutions that run independently of other systems.
+    </div>
+</div>
 
 ---
 
@@ -168,9 +197,40 @@ Simple and portable expressions language<br>
 
 <!-- .slide: class="background" -->
 
-## Web AppBuilder
+## Web AppBuilder<br><br>
 
-[Web AppBuilder](https://doc.arcgis.com/en/web-appbuilder/)
+Configurable web mapping application<br>
+Choose from several pre-made themes<br>
+Add functionality with pre-built widgets<br>
+[https://doc.arcgis.com/en/web-appbuilder](https://doc.arcgis.com/en/web-appbuilder/)
+
+---
+
+<!-- .slide: class="background" -->
+
+<div class="container">
+    <div class="col">
+        ![Floodplain Inquiry](http://solutions.arcgis.com/shared/img/FloodInquiryOverview.png)<br>
+        [Floodplain Inquiry](https://www.arcgis.com/apps/webappviewer/index.html?id=c2b1439f82a14d2390a9197da6758d83)
+    </div>
+    <div class="col">
+         ![Residential Comp Finder](http://solutions.arcgis.com/local-government/help/residential-comp-finders/img/overview.png)<br>
+         [Residential Comp Finder](http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=2e5abc40d59745f486eb41f05e46d38d)
+    </div>
+</div>
+
+---
+
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | ✔️ | ❌ | ❌ |
+| Explorer |  ✔️ | ❌ | ❌ |
+| Survey123 |  ✔️ | ❌ | ❌ |
+| Arcade |  ✔️ | ❌ | ❌ |
+| Dashboard |  ✔️ | ❌ | ❌ |
+| Web AppBuilder |  ✔️ |   |  |
 
 ---
 
@@ -182,9 +242,11 @@ Simple and portable expressions language<br>
 
 <!-- .slide: class="background" -->
 
-## Web AppBuilder
+## Web AppBuilder<br><br>
 
-[Web AppBuilder](https://developers.arcgis.com/web-appbuilder/)
+Create custom widgets<br>
+Create custom themes<br>
+[https://developers.arcgis.com/web-appbuilder/](https://developers.arcgis.com/web-appbuilder/)
 
 ---
 
@@ -227,7 +289,14 @@ Simple and portable expressions language<br>
 
 ## ArcGIS Pro DSK
 
-[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)
+Create Pro add-ins and solution configurations using C# or Visual Basic<br>
+[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)<br><br>
+
+Create an add-in with a button<br>
+[https://developers.arcgis.com/labs/pro/build-your-first-add-in/](https://developers.arcgis.com/labs/pro/build-your-first-add-in/)<br><br>
+
+Create an add-in with an identify tool<br>
+[https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/](https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/)
 
 ---
 
@@ -305,7 +374,20 @@ Arcpy
 
 ## JavaScript API
 
-[JavaScript API](https://developers.arcgis.com/javascript/)
+Build custom web applications<br>
+[https://developers.arcgis.com/javascript/](https://developers.arcgis.com/javascript/)<br><br>
+
+Get started with tutorials<br>
+[https://developers.arcgis.com/labs/](https://developers.arcgis.com/labs/)<br><br>
+
+Create map app<br>
+[https://developers.arcgis.com/labs/javascript/create-a-starter-app/](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)<br><br>
+
+Create webmap app<br>
+[https://developers.arcgis.com/labs/javascript/display-a-web-map/](https://developers.arcgis.com/labs/javascript/display-a-web-map/)<br><br>
+
+Add map coordinates widget<br>
+[https://developers.arcgis.com/labs/javascript/get-map-coordinates/](https://developers.arcgis.com/labs/javascript/get-map-coordinates/)
 
 ---
 
