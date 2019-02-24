@@ -30,19 +30,48 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 <!-- .slide: class="bg-7" -->
 
-Mara Stoica - .NET Software Engineer at Esri<br>
-Justin Colville - Product Engineer at Esri<br>
-Matt Bryant - Chief Technology Officer at DEVNET
+<div class="container">
+    <div class="col" style="text-align:left">
+        ![Esri](images/small-logo.png)<br>
+        Mara Stoica<br>
+        .NET Software Engineer<br>
+        Esri<br>
+        [mstoica@esri.com](mailto:mstoica@esri.com)
+    </div>
+    <div class="col" style="text-align:left">
+        ![Esri](images/small-logo.png)<br>
+        Justin Colville<br>
+        Product Engineer<br>
+        Esri<br>
+        [jcolville@esri.com](mailto:jcolville@esri.com)
+    </div>
+    <div class="col" style="text-align:left">
+        ![DEVNET](images/devnet-d-icon.png)<br>
+        Matt Bryant<br>
+        Chief Technology Officer<br>
+        DEVNET<br>
+        [bryant@devnetinc.com](mailto:bryant@devnetinc.com)
+    </div>
+</div>
 
 ---
 
 <!-- .slide: class="bg-5" -->
 
-## Configure, Customize or Develop
-
-Configuration: the process of setting up options using the administrative tools supplied within the application.<br>
-Customization: modification of the base product itself though code.<br>
-Development: creation of custom solutions that run independently of other systems.
+<div class="container">
+    <div class="col" style="text-align:left">
+        <h3>Configuration</h3>
+        The process of setting up options using the administrative tools supplied within the application.
+    </div>
+    <div class="col" style="text-align:left">
+        <h3>Customization</h3>
+        Modification of the base product itself though code.
+    </div>
+    <div class="col" style="text-align:left">
+        <h3>Development</h3>
+        Creation of custom solutions that run independently of other systems.
+    </div>
+</div>
 
 ---
 
@@ -114,9 +143,18 @@ Explorer
 
 <!-- .slide: class="background" -->
 
-## Web AppBuilder
+## [Web AppBuilder](https://doc.arcgis.com/en/web-appbuilder/)<br><br><br>
 
-[Web AppBuilder](https://doc.arcgis.com/en/web-appbuilder/)
+<div class="container">
+    <div class="col">
+        ![Floodplain Inquiry](http://solutions.arcgis.com/shared/img/FloodInquiryOverview.png)<br>
+        [Floodplain Inquiry](https://www.arcgis.com/apps/webappviewer/index.html?id=c2b1439f82a14d2390a9197da6758d83)
+    </div>
+    <div class="col">
+         ![Residential Comp Finder](http://solutions.arcgis.com/local-government/help/residential-comp-finders/img/overview.png)<br>
+         [Residential Comp Finder](http://statelocaltryit.maps.arcgis.com/apps/webappviewer/index.html?id=2e5abc40d59745f486eb41f05e46d38d)
+    </div>
+</div>
 
 ---
 
