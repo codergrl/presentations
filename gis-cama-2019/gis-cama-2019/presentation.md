@@ -1,6 +1,6 @@
 <!-- .slide: class="title" -->
 
-## Extending the Capabilities and Offerings of your GIS: A guided tour of Esri’s Developer Resources 
+## Extending the Capabilities and Offerings of your GIS: A guided tour of Esri’s Developer Resources
 Mara Stoica, Justin Colville & Matt Bryant
 <br><br><br>
 
@@ -13,10 +13,10 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 ## Agenda
 
 - Introduction
-- Configurable Apps
-- Customizable Solutions
+- Configure
+- Customize
 - Break
-- Developer Options
+- Develop
 - Wrap-up
 - Questions
 
@@ -58,6 +58,16 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 <!-- .slide: class="bg-5" -->
 
+## Apps and Builders and APIs, oh my?
+
+There are a lot of options for extending the ArcGIS platform.<br>
+Consider your users and team needs.<br>
+Choose the right tools for the solution.
+
+---
+
+<!-- .slide: class="bg-5" -->
+
 <div class="container">
     <div class="col" style="text-align:left">
         <h3>Configuration</h3>
@@ -75,22 +85,55 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 ---
 
+<!-- .slide: class="bg-5" -->
+
+## Resources
+
+[doc.arcgis.com](https://doc.arcgis.com/)<br>
+[solutions.arcgis.com](https://solutions.arcgis.com/)<br>
+[developers.arcgis.com](https://developers.arcgis.com/)
+
+---
+
 <!-- .slide: class="section" -->
 
-# Configuration
+# Configure
 
 ---
 
 <!-- .slide: class="background" -->
 
 ## Field Operations
-<br>
 
-[Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis/resources)
+ - Suite of purpose-built apps working together<br>
+  - [Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis/resources)
+  - Explorer
+  - Workforce
+  - Navigator
+  - Tracker
+  - [Survey123](https://www.esri.com/en-us/arcgis/products/survey123/resources)
 
-Explorer
+---
 
-[Survey123](https://www.esri.com/en-us/arcgis/products/survey123/resources)
+<!-- .slide: class="bg-5" -->
+
+## Data Collection
+
+ - Collector
+  - Map centric
+ - Survey123 - Form based
+ - Partner integration
+  - Eos Positioning + LTI
+  - Trimble - R1/R2/R102 integration
+
+---
+
+<!-- .slide: class="bg-5" -->
+
+## Tracking and Viewing
+
+ - Tracker
+ - Explorer
 
 ---
 
@@ -107,6 +150,17 @@ Explorer
 <!-- .slide: class="background" -->
 
 ## Arcade
+
+---
+
+<!-- .slide: class="bg-5" -->
+
+## Arcade
+
+Simple and portable expressions language<br>
+[developers.arcgis.com/arcade](https://developers.arcgis.com/arcade/)<br>
+[Toronto Neighborhoods Urban Trees](http://jsapi.maps.arcgis.com/home/item.html?id=2b998111603f4cd4bf135647b24b21b6)<br>
+[What’s new with Arcade: Taking a stroll through FeatureSets](https://www.esri.com/arcgis-blog/products/mapping/mapping/whats-new-with-arcade-taking-a-stroll-through-featuresets-part-2/)
 
 ---
 
@@ -143,7 +197,16 @@ Explorer
 
 <!-- .slide: class="background" -->
 
-## [Web AppBuilder](https://doc.arcgis.com/en/web-appbuilder/)<br><br><br>
+## Web AppBuilder<br><br>
+
+Configurable web mapping application<br>
+Choose from several pre-made themes<br>
+Add functionality with pre-built widgets<br>
+[https://doc.arcgis.com/en/web-appbuilder](https://doc.arcgis.com/en/web-appbuilder/)
+
+---
+
+<!-- .slide: class="background" -->
 
 <div class="container">
     <div class="col">
@@ -158,17 +221,32 @@ Explorer
 
 ---
 
+<!-- .slide: class="bg-8" -->
+
+| | Configure | Customize | Develop |
+| --- | :-------: | :-------: | :-----: |
+| Collector | ✔️ | ❌ | ❌ |
+| Explorer |  ✔️ | ❌ | ❌ |
+| Survey123 |  ✔️ | ❌ | ❌ |
+| Arcade |  ✔️ | ❌ | ❌ |
+| Dashboard |  ✔️ | ❌ | ❌ |
+| Web AppBuilder |  ✔️ |   |  |
+
+---
+
 <!-- .slide: class="section" -->
 
-# Customization
+# Customize
 
 ---
 
 <!-- .slide: class="background" -->
 
-## Web AppBuilder
+## Web AppBuilder<br><br>
 
-[Web AppBuilder](https://developers.arcgis.com/web-appbuilder/)
+Create custom widgets<br>
+Create custom themes<br>
+[https://developers.arcgis.com/web-appbuilder/](https://developers.arcgis.com/web-appbuilder/)
 
 ---
 
@@ -211,7 +289,14 @@ Explorer
 
 ## ArcGIS Pro DSK
 
-[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)
+Create Pro add-ins and solution configurations using C# or Visual Basic<br>
+[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)<br><br>
+
+Create an add-in with a button<br>
+[https://developers.arcgis.com/labs/pro/build-your-first-add-in/](https://developers.arcgis.com/labs/pro/build-your-first-add-in/)<br><br>
+
+Create an add-in with an identify tool<br>
+[https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/](https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/)
 
 ---
 
@@ -256,7 +341,7 @@ Arcpy
 
 <!-- .slide: class="section" -->
 
-# Development
+# Develop
 
 ---
 
@@ -289,7 +374,20 @@ Arcpy
 
 ## JavaScript API
 
-[JavaScript API](https://developers.arcgis.com/javascript/)
+Build custom web applications<br>
+[https://developers.arcgis.com/javascript/](https://developers.arcgis.com/javascript/)<br><br>
+
+Get started with tutorials<br>
+[https://developers.arcgis.com/labs/](https://developers.arcgis.com/labs/)<br><br>
+
+Create map app<br>
+[https://developers.arcgis.com/labs/javascript/create-a-starter-app/](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)<br><br>
+
+Create webmap app<br>
+[https://developers.arcgis.com/labs/javascript/display-a-web-map/](https://developers.arcgis.com/labs/javascript/display-a-web-map/)<br><br>
+
+Add map coordinates widget<br>
+[https://developers.arcgis.com/labs/javascript/get-map-coordinates/](https://developers.arcgis.com/labs/javascript/get-map-coordinates/)
 
 ---
 
