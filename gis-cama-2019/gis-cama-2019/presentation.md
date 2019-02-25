@@ -60,9 +60,9 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
 
 ## Apps and Builders and APIs, oh my?
 
-There are a lot of options for extending the ArcGIS platform.<br>
-Consider your users and team needs.<br>
-Choose the right tools for the solution.
+ - There are a lot of options for extending the ArcGIS platform.
+ - Consider your users and team needs.
+ - Choose the right tools for the solution.
 
 ---
 
@@ -103,37 +103,33 @@ Choose the right tools for the solution.
 
 <!-- .slide: class="background" -->
 
+## Apps for Everyone
+
+ - Suites of purpose-built apps working together - [ArcGIS Apps](https://www.esri.com/en-us/arcgis/products/apps-for-everyone/overview)
+ - [Apps for the Field](https://www.esri.com/en-us/arcgis/products/field-operations/overview)
+  - Collector, Explorer, Workforce, Navigator, Tracker, Survey123
+ - Apps for the Office
+ - Apps for the Community
+ - App Builders
+  - Build Your Own Apps, No Coding Required
+
+---
+
+<!-- .slide: class="bg-5" -->
+
 ## Field Operations
 
- - Suite of purpose-built apps working together<br>
-  - [Collector](https://www.esri.com/en-us/arcgis/products/collector-for-arcgis/resources)
-  - Explorer
-  - Workforce
-  - Navigator
-  - Tracker
-  - [Survey123](https://www.esri.com/en-us/arcgis/products/survey123/resources)
-
----
-
-<!-- .slide: class="bg-5" -->
-
-## Data Collection
-
  - Collector
-  - Map centric
- - Survey123 - Form based
- - Partner integration
-  - Eos Positioning + LTI
-  - Trimble - R1/R2/R102 integration
-
----
-
-<!-- .slide: class="bg-5" -->
-
-## Tracking and Viewing
-
- - Tracker
+  - Map centric data collection
+  - Partner integration
+    - Eos Positioning + LTI
+    - Trimble - R1/R2/R102 integration
+ - Survey123
+  - Form based data collection
  - Explorer
+  - Data viewing
+  - [Severe Weather Web Map](arcgis-explorer://?itemID=d16d53126f1243a3a7a7f1d0dff39662)
+ - URL Schema - [Explorer](https://github.com/Esri/explorer-integration), [Collector](https://github.com/Esri/collector-integration#documentation), [Survey123](https://doc.arcgis.com/en/survey123/reference/integratewithotherapps.htm)
 
 ---
 
@@ -147,20 +143,14 @@ Choose the right tools for the solution.
 
 ---
 
-<!-- .slide: class="background" -->
-
-## Arcade
-
----
-
 <!-- .slide: class="bg-5" -->
 
 ## Arcade
 
-Simple and portable expressions language<br>
-[developers.arcgis.com/arcade](https://developers.arcgis.com/arcade/)<br>
-[Toronto Neighborhoods Urban Trees](http://jsapi.maps.arcgis.com/home/item.html?id=2b998111603f4cd4bf135647b24b21b6)<br>
-[What’s new with Arcade: Taking a stroll through FeatureSets](https://www.esri.com/arcgis-blog/products/mapping/mapping/whats-new-with-arcade-taking-a-stroll-through-featuresets-part-2/)
+ - Simple and portable expressions language<br>
+ - [developers.arcgis.com/arcade](https://developers.arcgis.com/arcade/)<br>
+ - [Toronto Neighborhoods Urban Trees](http://jsapi.maps.arcgis.com/home/item.html?id=2b998111603f4cd4bf135647b24b21b6)<br>
+ - [What’s new with Arcade: Taking a stroll through FeatureSets](https://www.esri.com/arcgis-blog/products/mapping/mapping/whats-new-with-arcade-taking-a-stroll-through-featuresets-part-2/)
 
 ---
 
@@ -276,12 +266,7 @@ Simple and portable expressions language<br>
 
 ## AppStudio
 
-- Build apps for Android, iOS, Windows, Mac OS X, and Linux
-- Publish them to the app stores
-- No coding required
-
-
-[AppStudio](https://appstudio.arcgis.com/)
+[AppStudio](https://appstudio.arcgis.com/) helps convert your maps into beautiful mobile apps for Mac,<br>iOS, Android, Windows, and Linux
 
 ---
 
