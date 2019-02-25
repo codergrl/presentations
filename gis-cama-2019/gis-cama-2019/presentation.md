@@ -179,6 +179,11 @@ Simple and portable expressions language<br>
 
 ## Operations Dashboard
 
+- Real-time data visualization
+- View activities and key performance indicators
+- Use charts, gauges, maps, and other visual elements
+
+
 [Dashboard](https://doc.arcgis.com/en/operations-dashboard/)
 
 ---
@@ -199,9 +204,11 @@ Simple and portable expressions language<br>
 
 ## Web AppBuilder<br><br>
 
-Configurable web mapping application<br>
-Choose from several pre-made themes<br>
-Add functionality with pre-built widgets<br>
+- Configurable web mapping application
+- Choose from several pre-made themes
+- Add functionality with pre-built widgets
+
+
 [https://doc.arcgis.com/en/web-appbuilder](https://doc.arcgis.com/en/web-appbuilder/)
 
 ---
@@ -242,10 +249,12 @@ Add functionality with pre-built widgets<br>
 
 <!-- .slide: class="background" -->
 
-## Web AppBuilder<br><br>
+## Web AppBuilde (developer edition)<br><br>
 
-Create custom widgets<br>
-Create custom themes<br>
+- Create custom widgets
+- Create custom themes
+
+
 [https://developers.arcgis.com/web-appbuilder/](https://developers.arcgis.com/web-appbuilder/)
 
 ---
@@ -267,6 +276,11 @@ Create custom themes<br>
 
 ## AppStudio
 
+- Build apps for Android, iOS, Windows, Mac OS X, and Linux
+- Publish them to the app stores
+- No coding required
+
+
 [AppStudio](https://appstudio.arcgis.com/)
 
 ---
@@ -287,16 +301,17 @@ Create custom themes<br>
 
 <!-- .slide: class="background" -->
 
-## ArcGIS Pro DSK
+## ArcGIS Pro SDK
 
-Create Pro add-ins and solution configurations using C# or Visual Basic<br>
-[ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)<br><br>
+- Create Pro add-ins and solution configurations using C# or Visual Basic
+- [ArcGIS Pro SDK](https://pro.arcgis.com/en/pro-app/sdk/)
+- [ArcGIS Solutions Deployment Tool](https://solutions.arcgis.com/shared/help/deployment-tool/)<br><br>
 
-Create an add-in with a button<br>
-[https://developers.arcgis.com/labs/pro/build-your-first-add-in/](https://developers.arcgis.com/labs/pro/build-your-first-add-in/)<br><br>
 
-Create an add-in with an identify tool<br>
-[https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/](https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/)
+### [Tutorials](https://developers.arcgis.com/labs/?product=Pro-SDK&topic=any)
+
+- [Create an add-in with a button](https://developers.arcgis.com/labs/pro/build-your-first-add-in/)
+- [Create an add-in with an identify tool](https://developers.arcgis.com/labs/pro/build-a-map-identification-tool/)
 
 ---
 
@@ -319,7 +334,12 @@ Create an add-in with an identify tool<br>
 
 ## Arcpy
 
-Arcpy
+- Data analysis
+- Data conversion
+- Data management
+- Map automation <br><br><br>
+- [Arcpy for ArcGIS Desktop](http://desktop.arcgis.com/en/arcmap/latest/analyze/arcpy/what-is-arcpy-.htm)
+- [Arcpy for ArcGIS Pro](https://pro.arcgis.com/en/pro-app/arcpy/main/arcgis-pro-arcpy-reference.htm)
 
 ---
 
@@ -372,22 +392,18 @@ Arcpy
 
 <!-- .slide: class="background" -->
 
-## JavaScript API
+## JavaScript API<br><br>
 
-Build custom web applications<br>
-[https://developers.arcgis.com/javascript/](https://developers.arcgis.com/javascript/)<br><br>
+- Build custom web applications
 
-Get started with tutorials<br>
-[https://developers.arcgis.com/labs/](https://developers.arcgis.com/labs/)<br><br>
 
-Create map app<br>
-[https://developers.arcgis.com/labs/javascript/create-a-starter-app/](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)<br><br>
+[https://developers.arcgis.com/javascript/](https://developers.arcgis.com/javascript/)
 
-Create webmap app<br>
-[https://developers.arcgis.com/labs/javascript/display-a-web-map/](https://developers.arcgis.com/labs/javascript/display-a-web-map/)<br><br>
+### [Tutorials](https://developers.arcgis.com/labs/)
 
-Add map coordinates widget<br>
-[https://developers.arcgis.com/labs/javascript/get-map-coordinates/](https://developers.arcgis.com/labs/javascript/get-map-coordinates/)
+- [Create map app](https://developers.arcgis.com/labs/javascript/create-a-starter-app/)
+- [Create webmap app](https://developers.arcgis.com/labs/javascript/display-a-web-map/)
+- [Add map coordinates widget](https://developers.arcgis.com/labs/javascript/get-map-coordinates/)
 
 ---
 
@@ -411,22 +427,22 @@ Add map coordinates widget<br>
 
 <!-- .slide: class="background" -->
 
-## Runtime APIs
+## Runtime APIs<br><br>
 
-Develop iPhone and iPad applications with ArcGIS Runtime SDK for iOS<br>
-[https://developers.arcgis.com/ios/latest/](https://developers.arcgis.com/ios/latest/)<br><br>
+- Develop iPhone and iPad applications with the [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/latest/)
+- Develop apps for Android phones and tablets with the [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/latest/)
+- Develop apps for Windows, iOS, and Android with the [ArcGIS Runtime SDK for .NET](https://developers.arcgis.com/net/latest/)
+- Develop apps for Windows, Linux and macOS with the [ArcGIS Runtime SDK for Java](https://developers.arcgis.com/java/latest/)
+- Develop apps for Windows, macOS, Linux, Android, and iOS with the [ArcGIS Runtime SDK for QT](https://developers.arcgis.com/qt/latest/)
 
-Develop apps for Android phones and tablets with ArcGIS Runtime SDK for Android<br>
-[https://developers.arcgis.com/android/latest/](https://developers.arcgis.com/android/latest/)<br><br>
+---
 
-Develop apps for Windows, iOS, and Android with ArcGIS Runtime SDK for .NET<br>
-[https://developers.arcgis.com/net/latest/](https://developers.arcgis.com/net/latest/)<br><br>
+<!-- .slide: class="background" -->
 
-Develop apps for Windows, Linux and macOS with ArcGIS Runtime SDK for Java<br>
-[https://developers.arcgis.com/java/latest/](https://developers.arcgis.com/java/latest/)<br><br>
+## Developer Resources<br><br>
 
-Develop apps for Windows, macOS, Linux, Android, and iOS with ArcGIS Runtime SDK for QT<br>
-[https://developers.arcgis.com/qt/latest/](https://developers.arcgis.com/qt/latest/)
+- [DevLabs (aka Tutorials)](https://developers.arcgis.com/labs/)
+- [Open Source Apps](https://developers.arcgis.com/example-apps/)
 
 ---
 
