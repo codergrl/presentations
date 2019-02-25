@@ -131,7 +131,6 @@ Follow along at [http://esriurl.com/giscama2019](http://esriurl.com/giscama2019)
   - [Severe Weather Web Map](arcgis-explorer://?itemID=d16d53126f1243a3a7a7f1d0dff39662)
  - URL Schema - [Explorer](https://github.com/Esri/explorer-integration), [Collector](https://github.com/Esri/collector-integration#documentation), [Survey123](https://doc.arcgis.com/en/survey123/reference/integratewithotherapps.htm)
 
-
 ---
 
 <!-- .slide: class="bg-8" -->
@@ -259,7 +258,6 @@ Create custom themes<br>
 ## AppStudio
 
 [AppStudio](https://appstudio.arcgis.com/) helps converts your maps into beautiful mobile apps for Mac,<br>iOS, Android, Windows, and Linux
-
 
 ---
 
