@@ -4,7 +4,7 @@
 <h2 style="text-align: left; font-size: 60px;">We Built It for You!</h2>
 <p style="text-align: left; font-size: 30px;">Mara Stoica</p>
 <p style="text-align: left; font-size: 30px;">@codergrl</p>
-    <p style="text-align: left; font-size: 30px;">slides: <a href="https://git.io/fhNc2"><code>https://git.io/fhNc2</code></a></p>
+    <p style="text-align: left; font-size: 30px;">slides: <a href="https://git.io/fhA20"><code>https://git.io/fhA20</code></a></p>
 
 ---
 
