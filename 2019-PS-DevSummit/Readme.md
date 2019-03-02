@@ -6,7 +6,11 @@
 
 
 #### Editing presentation
-- Go into the presentation folder and edit the presentation.md
+- Clone locally
+- Go into the presentation folder
+- Edit the presentation.md file. 
+- Push changes and merge into master
+- Use links above to see changes live
 
 #### Run locally
 - Navigate to the folder where presentation is cloned
