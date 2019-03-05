@@ -4,6 +4,8 @@
 
 [Configuring Web Maps for Runtime Apps](https://codergrl.github.io/presentations/2019-PS-DevSummit/Configuring-WebMaps-for-Runtime-Apps/#/)
 
+[Speed Geeking](https://codergrl.github.io/presentations/2019-PS-DevSummit/Speed-Geeking/#/)
+
 
 #### Editing presentation
 - Clone locally
