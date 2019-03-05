@@ -1,6 +1,6 @@
 <!-- .slide: data-background="../reveal.js/img/2019/devsummit/bg-1.png" -->
 
-<h1 style="text-align: left; font-size: 80px;">Customizing the Data Collection App</h1>
+<h1 style="text-align: left; font-size: 80px;">Configuring the Open Source Data Collection App</h1>
 
 ---
 
