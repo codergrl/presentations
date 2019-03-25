@@ -17,3 +17,6 @@
 #### Run locally
 - Navigate to the folder where presentation is cloned
 - run `npx http-server`
+
+#### Print presentation
+- export to pdf by adding `/?print-pdf#/` at the end of the url
